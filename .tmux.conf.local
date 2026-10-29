@@ -417,7 +417,7 @@ tmux_conf_urlscan_options="--compact --dedupe"
 # move status line to top
 #set -g status-position top
 
-# Binding syncrhonize-panes shortcut
+# Binding synchronize-panes shortcut
 bind C-s setw synchronize-panes\; display-message "synchronize-panes is now #{?pane_synchronized,on,off}"
 
 # -- tpm -----------------------------------------------------------------------
