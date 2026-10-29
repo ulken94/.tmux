@@ -16,6 +16,16 @@
   </picture>
 </p>
 
+Introduction
+------------
+This repository is modification from [this original repository](https://github.com/gpakosz/.tmux.git) for my customization.
+
+Modification lists:
+
+- Use hightlighted panes as default
+- Add syncrhonize-pane shortcut to `<prefix> C+s`
+
+
 Installation
 ------------
 
