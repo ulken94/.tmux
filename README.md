@@ -22,8 +22,8 @@ This repository is modification from [this original repository](https://github.c
 
 Modification lists:
 
-- Use hightlighted panes as default
-- Add syncrhonize-pane shortcut to `<prefix> C+s`
+- Use highlighted panes as default
+- Add synchronize-pane shortcut to `<prefix> C-s`
 
 
 Installation
